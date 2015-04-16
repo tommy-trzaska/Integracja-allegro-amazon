@@ -4,10 +4,9 @@ Jezyk: C#
 Framework: .Net
 
 Plan dzialan:
-1.
-2.
-3.
-4.
-5.
-6.
-7. Finalna wersja projektu.
+1. Transformacje
+2. Komunikacja z Allegro
+3. Komunikacja z Yandex API
+4. Komunikacja z Amazonem
+5. Integracja systemów
+6. Finalna wersja projektu.
