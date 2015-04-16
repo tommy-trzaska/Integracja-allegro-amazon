@@ -8,5 +8,5 @@ Plan dzialan:
 2. Komunikacja z Allegro
 3. Komunikacja z Yandex API
 4. Komunikacja z Amazonem
-5. Integracja systemów
+5. Zintegrowanie systemów
 6. Finalna wersja projektu.
