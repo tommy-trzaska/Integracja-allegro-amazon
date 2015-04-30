@@ -1,0 +1,71 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/docs/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/aegis/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/aegis/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/aegis_standalone/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/antbuild/src" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/callback/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/configuration_interceptor/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/corba/bank/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/corba/bank_ws_addressing/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/corba/hello_world/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/groovy_spring_support/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/in_jvm_transport/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/java_first_jaxws/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/java_first_jaxws/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/java_first_jaxws_factory_bean/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/java_first_jms/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/java_first_pojo/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/java_first_spring_support/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/jax_rs/basic/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/jax_rs/basic_https/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/jax_rs/content_negotiation/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/jax_rs/minimal_osgi/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/jax_rs/spring_security/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/jax_rs/websocket/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/jax_server_aegis_client/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/jaxws_async/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/jaxws_dispatch_provider/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/jaxws_handlers/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/jms_pubsub/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/jms_queue/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/jms_spec_demo/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/jms_spring_config/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/js_browser_client_java_first/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/js_browser_client_simple/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/js_client/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/js_provider/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/logbrowser/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/mtom/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/oauth/client/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/oauth/server/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/restful_dispatch/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/ruby_spring_support/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/soap_header/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/sts/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/ws_addressing/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/ws_discovery/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/ws_eventing/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/ws_notification/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/ws_policy/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/ws_rm/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/ws_security/sign_enc/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/ws_security/sign_enc_policy/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/ws_security/ut/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/ws_security/ut_policy/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/wsdl_first/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/wsdl_first_dynamic_client/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/wsdl_first_https/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/wsdl_first_pure_xml/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/wsdl_first_rpclit/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/wsdl_first_soap12/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/wsdl_first_xml_wrapped/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-cxf-3.0.4/apache-cxf-3.0.4/samples/wsdl_first_xmlbeans/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
